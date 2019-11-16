@@ -1297,9 +1297,9 @@ h3 {
 
 /* line 39, C:/Users/SPN Graphics/Desktop/CL September/210 Medical/HTML/scss/_slider.scss */
 .slider_area .single_slider .slider_text p {
-  font-size: 18px;
+  font-size: 22px;
   font-weight: 400;
-  color: #727272;
+  color: #000000;
   margin-bottom: 40px;
   margin-top: 10px;
 }
@@ -1322,6 +1322,7 @@ h3 {
 .welcome_docmed_area {
   padding-top: 120px;
   padding-bottom: 220px;
+  background: #e5e6e1;
 }
 
 @media (max-width: 767px) {
@@ -2274,6 +2275,10 @@ h3 {
   }
 }
 
+.logo{
+    width: 225 x; 
+    height: 55px;
+}
 /* line 31, C:/Users/SPN Graphics/Desktop/CL September/210 Medical/HTML/scss/_footer.scss */
 .footer .footer_top .footer_widget .footer_logo {
   font-size: 22px;

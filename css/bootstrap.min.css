@@ -225,6 +225,8 @@ figure {
 img {
     vertical-align: middle;
     border-style: none
+    width: 225 x; 
+    height: 55px;
 }
 
 svg:not(:root) {
