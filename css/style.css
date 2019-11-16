@@ -2275,8 +2275,8 @@ h3 {
   }
 }
 
-.logo{
-    width: 225 x; 
+.logo #logo{
+    width: 225px; 
     height: 55px;
 }
 /* line 31, C:/Users/SPN Graphics/Desktop/CL September/210 Medical/HTML/scss/_footer.scss */
