@@ -1,9 +1,9 @@
-	/*
-  	Flaticon icon font: Flaticon
-  	Creation date: 24/09/2019 10:38
-  	*/
+    /*
+    Flaticon icon font: Flaticon
+    Creation date: 16/11/2019 17:43
+    */
 
-@font-face {
+  @font-face {
   font-family: "Flaticon";
   src: url("../fonts/Flaticon.eot");
   src: url("../fonts/Flaticon.eot?#iefix") format("embedded-opentype"),
@@ -29,8 +29,9 @@
 font-style: normal;
 }
 
-.flaticon-straight-quotes:before { content: "\f100"; }
-.flaticon-electrocardiogram:before { content: "\f101"; }
-.flaticon-emergency-call:before { content: "\f102"; }
-.flaticon-first-aid-kit:before { content: "\f103"; }
-.flaticon-right:before { content: "\f104"; }
+.flaticon-boligrafo:before { content: "\f100"; }
+.flaticon-marcador:before { content: "\f101"; }
+.flaticon-portafolio:before { content: "\f102"; }
+.flaticon-nota:before { content: "\f103"; }
+.flaticon-charla:before { content: "\f104"; }
+    
