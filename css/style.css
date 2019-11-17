@@ -2234,7 +2234,7 @@ h3 {
 .footer .footer_top {
   padding-top: 145px;
   padding-bottom: 129px;
-  background: #1F1F1F;
+  background: #1d4d73;
 }
 
 @media (max-width: 767px) {
@@ -2397,7 +2397,7 @@ h3 {
 /* line 122, C:/Users/SPN Graphics/Desktop/CL September/210 Medical/HTML/scss/_footer.scss */
 .footer .copy-right_text {
   padding-bottom: 30px;
-  background: #000000;
+  background: #001E31;
 }
 
 /* line 125, C:/Users/SPN Graphics/Desktop/CL September/210 Medical/HTML/scss/_footer.scss */
@@ -2451,7 +2451,7 @@ h3 {
   height: 50px;
   display: inline-block;
   text-align: center;
-  background: #707070;
+  background: #001e31;
   border-radius: 4px;
   line-height: 50px !important;
   margin-right: 7px;
